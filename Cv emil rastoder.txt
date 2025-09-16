@@ -1,0 +1,44 @@
+<!doctype html>
+<html lang="fr">
+<head>
+<title>CV EMIL</title>
+</head>
+
+<body>
+<font size="5pt" color="000000">
+    <div align="right"> <img src="foot.jpg" alt="image" height="150" width="200"></div>   
+    <br>    
+ <p><b>Nom:</b> Rastoder</p>  
+ <p><b>Prénom: </b>Emil</p>
+ <p><b>LinkedIn:</b> Emil.rastoder (fictif) </p>   <hr>
+<u><h4>Compétences:</h4></u>
+<a>
+-Html <br>
+-Php <br>
+-packet Tracer <br>
+-Python <br>
+-Pack Office <br>
+</a> <br>
+<hr>
+<u><h4>Formation:</h4></u> 
+<a>
+-Lycée Turgot: 
+</a>
+<a href="https://pia.ac-paris.fr/serail/jcms/s2_271354/fr/accueil"> Site Internet du Lycée Turgot</a>
+<br>
+<a>
+-Lycée LaSalle Saint-Denis 
+</a>
+<a href="https://www.lasallesaintdenis.com/"> Site Internet du Lycée LaSalle Saint Denis</a>
+<br>
+<a>
+-Collège La Salle Saint-Denis
+</a>
+<a href="https://www.lasallesaintdenis.com/"> Site Internet du Collège LaSalle Saint Denis</a>
+
+
+
+
+</font>
+</body>
+</html>
