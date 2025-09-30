@@ -1,0 +1,63 @@
+
+<head>
+      <title> Emil Rastoder </title>
+
+<style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: antiquewhite;
+      margin: 30px;
+      color: #000;
+    }
+
+    .header {
+      text-align: right;
+    }
+
+    .header img {
+      height: 150px;
+      width: 150px;
+    }
+
+    button {
+        background-color: gold;
+        color: rgb(0, 0, 0);           
+        font-size: 18px;       
+        padding: 10px 20px;        
+        border-radius: 7px;        
+        cursor: pointer;        
+        transition: background-color 0.3s ease;
+      }
+    
+      button:hover {
+        background-color: #2980b9; 
+    
+      }
+
+
+
+    .section {
+      margin-top: 30px;
+    }
+
+    h4 {
+      text-decoration: underline;
+      margin-bottom: 10px;
+    }
+
+    .info p {
+      margin: 5px 0;
+    }
+
+    a {
+      display: block;
+      margin-bottom: 5px;
+      color: #e5ff00;
+      text-decoration: none;
+    }
+
+    a:hover {
+      text-decoration: underline;
+    }
+  </style>
+  </head>
